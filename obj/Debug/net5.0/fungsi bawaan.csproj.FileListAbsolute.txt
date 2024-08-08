@@ -1,0 +1,16 @@
+C:\Users\kalvi\Documents\fungsi bawaan\bin\Debug\net5.0\fungsi bawaan.exe
+C:\Users\kalvi\Documents\fungsi bawaan\bin\Debug\net5.0\fungsi bawaan.deps.json
+C:\Users\kalvi\Documents\fungsi bawaan\bin\Debug\net5.0\fungsi bawaan.runtimeconfig.json
+C:\Users\kalvi\Documents\fungsi bawaan\bin\Debug\net5.0\fungsi bawaan.runtimeconfig.dev.json
+C:\Users\kalvi\Documents\fungsi bawaan\bin\Debug\net5.0\fungsi bawaan.dll
+C:\Users\kalvi\Documents\fungsi bawaan\bin\Debug\net5.0\ref\fungsi bawaan.dll
+C:\Users\kalvi\Documents\fungsi bawaan\bin\Debug\net5.0\fungsi bawaan.pdb
+C:\Users\kalvi\Documents\fungsi bawaan\obj\Debug\net5.0\fungsi bawaan.csproj.AssemblyReference.cache
+C:\Users\kalvi\Documents\fungsi bawaan\obj\Debug\net5.0\fungsi bawaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Documents\fungsi bawaan\obj\Debug\net5.0\fungsi bawaan.AssemblyInfoInputs.cache
+C:\Users\kalvi\Documents\fungsi bawaan\obj\Debug\net5.0\fungsi bawaan.AssemblyInfo.cs
+C:\Users\kalvi\Documents\fungsi bawaan\obj\Debug\net5.0\fungsi bawaan.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\Documents\fungsi bawaan\obj\Debug\net5.0\fungsi bawaan.dll
+C:\Users\kalvi\Documents\fungsi bawaan\obj\Debug\net5.0\ref\fungsi bawaan.dll
+C:\Users\kalvi\Documents\fungsi bawaan\obj\Debug\net5.0\fungsi bawaan.pdb
+C:\Users\kalvi\Documents\fungsi bawaan\obj\Debug\net5.0\fungsi bawaan.genruntimeconfig.cache
